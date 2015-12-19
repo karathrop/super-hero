@@ -1,0 +1,49 @@
+#readyforschool{
+  left:50%;
+  top:50%;
+  margin-left: -190px;
+  margin-top: -190px;
+  position:absolute;
+}
+#calibrateHoldSteady {
+  position:absolute;
+  text-Align: CENTER;
+  font-size: 90px;
+  font-family: "brandon-grotesque";
+  /*font-weight: bold;*/
+  left:50%;
+  top:700PX;
+  margin-left:-200px;
+  color: white;
+  z-index:30px;
+}
+
+.capesign{
+  position:absolute;
+  left:50%;
+  top:-60px;
+  margin-left:-480px;
+}
+
+.yellowbg{
+  background-image: url('assets/papertxtyellow.png');
+  background-repeat: repeat;
+}
+
+.calibrateHoldSteady {
+  position:absolute;
+  text-Align: CENTER;
+  font-size: 200px;
+  font-family: "brandon-grotesque";
+  font-weight: bold;
+  color: white;
+  z-index:30px;
+}
+
+.centeredcallibration{
+  position: absolute;
+  /*display: block;*/
+    margin-left: 50%;
+  margin-right: auto;
+}
+
